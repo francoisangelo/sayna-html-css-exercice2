@@ -1,0 +1,187 @@
+
+header{
+    padding: 2% 10%;
+    background-image: url("assets/img/header_bg.jpg ");
+    background-size: cover;
+    height:2%;  
+}
+#head{
+    font-family: Open Sans, Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    margin: 2%;
+    color: #f9f9f9;
+}
+@media screen { max-width:  768px;}
+    #logoc{
+    width: 50%;
+    padding: 2%;
+    }
+  #logo{
+    width: 100%;
+    display: block;
+    padding: 1%;
+}
+    
+#list{
+    display: flex;
+    list-style-type: none;
+    margin: 1%;
+    padding: 2%;
+    color: #f9f9f9;
+}
+#list li{
+    padding: 30px;
+    margin: 20px;
+
+}
+#ligne{
+    background-color: #FFFFFF;
+    padding: 1px;
+    background-size: cover;
+  width: 100%;
+}
+#lien{
+    padding: 40px;
+    margin:20px;
+
+}
+#bouton1{
+    border-radius: 50px;
+    background-color:#3d9f96;
+    width: 20%;
+    color: #f9f9f9;
+    padding: 2%;
+    height: 5%
+;
+}
+#contenu{
+    text-align: center;
+    color: #FFFFFF;
+    width: 100%;
+
+}
+#text{
+    color:#3d9f96;
+    padding: 2%;
+}
+#ordi{
+    padding: 50px;
+    height: 1%;
+    
+
+}
+
+#image{
+    text-align: center;
+    margin: 1%;
+    width: 100%;
+    
+}
+#image img{
+    padding: 1%;
+    
+}
+#schema{
+    text-align: center;
+    margin: 1%;
+    justify-content: center;
+
+}
+#body{
+    background: url(assets/img/map_bg.png);
+     width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+#center{
+justify-content: content;
+color: #FFFFFF;
+}
+.container{
+    padding: 25%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-between;
+}
+.flex-container div{
+     display: flex;
+     margin: 15%;
+}
+#separation{
+    background: url(assets/img/seperator1-.jpg);
+    text-align: center;
+    justify-content: center;
+    margin: 1%;
+    width: 100%;
+}
+#avatar{
+     width: 100%;
+     margin: 1%;
+     color:#FFFFFF;
+}
+.color{
+    color: #3d9f96;
+}
+#text{
+color: #f9f9f9;
+}
+#one{
+    color: #3d9f96;
+    padding: 1%;
+}
+#logoplay{
+background-image: url(assets/img/image_300px_1.png);
+width: 50%;
+display: flex;
+justify-content: start;
+background-repeat: no-repeat;
+min-width: 307px;
+align-items: center;
+min-height: 320px;
+margin: 10%;
+}
+.bouton{
+    border-radius: 20px;
+    background:#3d9f96;
+    width: 100%;
+    color: #f9f9f9;
+    padding: 5%;
+    
+}
+.container{
+    justify-content: space-between;
+    display: flex;
+    padding: 2%;
+    margin: 15%;
+}
+
+#sayna{
+    width: 100%;
+    height:50%;
+    padding: 30%;
+}
+#sayna img{
+    width: 100%;
+    padding: 5%;
+    margin:1%
+}
+.row{
+    padding: 10%;
+    text-align: center;
+}
+#foot{
+    display: flex;
+    width: 100%;
+    margin: 2%;
+
+}  
+.footer{
+    text-align: center;
+    display:flex;
+    justify-content: space-between;
+    width: 50%;
+    padding: 15%;
+    margin: 0 15px;
+}
